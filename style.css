@@ -1,7 +1,7 @@
 /* Content */
 
 .content {
-    padding: 9px 90px;
+    padding: 8px 90px;
     font-family: "Roboto", sans-serif;
   }
   
@@ -10,13 +10,13 @@
   }
   
   .content img {
-    max-height: 500px;
+    max-height: 502px;
   }
   
   /* Share Buttons */
   
   .share-btn-container {
-    background: #a9b674;
+    background: #fff;
     display: flex;
     flex-direction: column;
     padding: 16px;
