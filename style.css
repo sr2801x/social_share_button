@@ -16,11 +16,11 @@
   /* Share Buttons */
   
   .share-btn-container {
-    background: #fff;
+    background: #a9b674;
     display: flex;
     flex-direction: column;
     padding: 16px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(22, 3, 3, 0.3);
     position: fixed;
     top: 50%;
     transform: translateY(-50%);
